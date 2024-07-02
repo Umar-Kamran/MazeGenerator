@@ -1,0 +1,2 @@
+# MazeGenerator
+Flare application
