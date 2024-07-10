@@ -1,6 +1,5 @@
 # MazeGenerator
-Flare application - Umar Kamran\
-Note: Comments have been implemented as XML tags which is best viewed in visual studio with intellisense\
+App which generates random mazes 
 How to run app:
 1) Download build.rar
 2) Extract file
