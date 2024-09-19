@@ -22,8 +22,7 @@ Prim's algorithm is a minimum spanning tree algorithm that efficiently generates
 3. **Completion**:  
    This process is repeated until the list of walls is empty, ensuring only one path exists between any two cells.
 
-![Prims Algorithm video](ExtraFiles/MAZE_30x20_Prim.ogv)  
-*Purpy Pupple, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*
+
 
 ### Project Structure
 
